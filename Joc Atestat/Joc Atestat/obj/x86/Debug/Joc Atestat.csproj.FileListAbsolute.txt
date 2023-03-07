@@ -1,0 +1,24 @@
+C:\Users\octav\OneDrive\Desktop\joc atestat\Joc Atestat\Joc Atestat\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\octav\OneDrive\Desktop\joc atestat\Joc Atestat\Joc Atestat\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\octav\OneDrive\Desktop\joc atestat\Joc Atestat\Joc Atestat\obj\x86\Debug\Joc Atestat.csproj.GenerateResource.Cache
+C:\Users\octav\OneDrive\Desktop\joc atestat\Joc Atestat\Joc Atestat\bin\Debug\Joc Atestat.exe
+C:\Users\octav\OneDrive\Desktop\joc atestat\Joc Atestat\Joc Atestat\bin\Debug\Joc Atestat.pdb
+C:\Users\octav\OneDrive\Desktop\joc atestat\Joc Atestat\Joc Atestat\obj\x86\Debug\Joc Atestat.exe
+C:\Users\octav\OneDrive\Desktop\joc atestat\Joc Atestat\Joc Atestat\obj\x86\Debug\Joc Atestat.pdb
+C:\Users\octav\OneDrive\Desktop\joc atestat\Joc Atestat\Joc Atestat\obj\x86\Debug\Joc Atestat.csprojResolveAssemblyReference.cache
+C:\Users\Elev\Desktop\joc atestat\Joc Atestat\Joc Atestat\obj\x86\Debug\Joc Atestat.exe
+C:\Users\Elev\Desktop\joc atestat\Joc Atestat\Joc Atestat\obj\x86\Debug\Joc Atestat.pdb
+C:\Users\Elev\Desktop\joc atestat\Joc Atestat\Joc Atestat\bin\Debug\Joc Atestat.exe
+C:\Users\Elev\Desktop\joc atestat\Joc Atestat\Joc Atestat\bin\Debug\Joc Atestat.pdb
+C:\Users\Elev\Desktop\joc atestat\Joc Atestat\Joc Atestat\obj\x86\Debug\Joc Atestat.csprojResolveAssemblyReference.cache
+C:\Users\Elev\Desktop\joc atestat\Joc Atestat\Joc Atestat\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Elev\Desktop\joc atestat\Joc Atestat\Joc Atestat\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Elev\Desktop\joc atestat\Joc Atestat\Joc Atestat\obj\x86\Debug\Joc Atestat.csproj.GenerateResource.Cache
+F:\joc atestat\Joc Atestat\Joc Atestat\obj\x86\Debug\Joc Atestat.exe
+F:\joc atestat\Joc Atestat\Joc Atestat\obj\x86\Debug\Joc Atestat.pdb
+F:\joc atestat\Joc Atestat\Joc Atestat\bin\Debug\Joc Atestat.exe
+F:\joc atestat\Joc Atestat\Joc Atestat\bin\Debug\Joc Atestat.pdb
+F:\joc atestat\Joc Atestat\Joc Atestat\obj\x86\Debug\Joc Atestat.csprojResolveAssemblyReference.cache
+F:\joc atestat\Joc Atestat\Joc Atestat\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\joc atestat\Joc Atestat\Joc Atestat\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\joc atestat\Joc Atestat\Joc Atestat\obj\x86\Debug\Joc Atestat.csproj.GenerateResource.Cache
